@@ -259,10 +259,10 @@
 		</control>
 		<control type="button" id="90143">
 			<include>ButtonHomeSubCommonValues</include>
-			<label>19024</label>
+			<label>22020</label>
 			<onclick>ActivateWindow(PVR)</onclick>
-			<onclick>Setfocus(33)</onclick>
-			<onclick>Setfocus(12)</onclick>
+			<onclick>Setfocus(31)</onclick>
+			<onclick>Setfocus(10)</onclick>
 		</control>
 		<control type="button" id="90144">
 			<include>ButtonHomeSubCommonValues</include>
